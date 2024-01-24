@@ -1,7 +1,6 @@
 Template Name: Property
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Template Author: Ishak
+Template License: 
+Author URI:https://github.com/MohammadIshak47/realstate_project
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+
