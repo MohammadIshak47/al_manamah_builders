@@ -1,0 +1,42 @@
+/* Add any additional styles you want here */
+/* Add any additional styles you want here */
+
+.gallery-card {
+    overflow: hidden;
+    position: relative;
+}
+
+.gallery-card img {
+    transition: transform 0.5s;
+}
+
+.gallery-card:hover img {
+    transform: scale(1.2);
+}
+
+.modal-content img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* Add any additional styles you want here */
+
+/* Add any additional styles you want here */
+
+.card {
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s;
+}
+
+.card:hover img {
+    transform: scale(1.1);
+}
+
+
+/* at a glance start here */
